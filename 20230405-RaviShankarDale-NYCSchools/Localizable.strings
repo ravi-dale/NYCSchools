@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  20230405-RaviShankarDale-NYCSchools
+
+  Created by Ravi Shankar Dale on 4/5/23.
+  
+*/
+
+"global.ok" = "Ok";
+"global.updateFailed" = "Update Failed!";
+"global.genericError" = "Something went wrong";
+"global.badUrl" = "Url is not complete";
+"global.badResponse" = "Response is either empty or corrupted";
+"global.parsingError" = "Parsing error";
